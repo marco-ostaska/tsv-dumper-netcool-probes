@@ -15,14 +15,14 @@ Usage
 interative mode:
 
 ```
-python ceim.py <tsv file> <opt>
+python netcool-tsv-dumper.py <tsv file> <opt>
 ```
 
 
 Using JSON:
 
 ```
-python  ceim.py <tsv file> <opt> <json file>
+python netcool-tsv-dumper.py <tsv file> <opt> <json file>
 ```
 
 ### < opt >
