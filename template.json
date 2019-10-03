@@ -1,0 +1,50 @@
+Skip to content
+Enterprise
+Search or jump to…
+
+Pull requests
+Issues
+Explore
+@marcoanSign out
+0
+01eads-smi-brazil/whr-ceim-normalization
+ Code Issues 0 Pull requests 0 Projects 0 Wiki Insights Settings
+whr-ceim-normalization/template.json
+faf550b on Mar 30, 2018
+@marcoan marcoan init commit
+
+35 lines (34 sloc)  879 Bytes
+[
+  {
+    "tec_class":"tec_class",
+    "situation":"situation",
+    "slot":"Slot",
+    "node":"Node",
+    "component_type":"ComponentType",
+    "component":"Component",
+    "sub_component":"SubComponent",
+    "instance_id":"InstanceId",
+    "instance_value":"InstanceValue",
+    "instanced_situation":"InstanceSituation",
+    "appl_id":"ApplId",
+    "summary":"Summary",
+    "extended_attr":"ExtendedAttr",
+    "comments":"Comments"
+  },
+  {
+    "tec_class":"tec_class",
+    "situation":"situation2345",
+    "slot":"Slot",
+    "node":"Node",
+    "component_type":"ComponentType",
+    "component":"Component",
+    "sub_component":"SubComponent",
+    "instance_id":"InstanceId",
+    "instance_value":"InstanceValue",
+    "instanced_situation":"InstanceSituation",
+    "appl_id":"ApplId",
+    "summary":"Summary",
+    "extended_attr":"ExtendedAttr",
+    "comments":"Comments"
+  }
+]
